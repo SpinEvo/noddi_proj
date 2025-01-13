@@ -1,2 +1,2 @@
 # noddi_proj
-The details of the registration codes used in NODDI project.
+A sample intracerebral hemorrhage data is presented, including NODDI and DTI results, and details of the corresponding registration codes.
